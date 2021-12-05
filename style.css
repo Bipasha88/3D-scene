@@ -1,0 +1,17 @@
+@import url("https://use.typekit.net/jmk3xov.css");
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+main {
+  width: 10vw;
+  height: 400vw;
+}
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
